@@ -20,3 +20,7 @@ Explores the Nobel Foundation's list of laureates from 1901 to 2016: country of 
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
